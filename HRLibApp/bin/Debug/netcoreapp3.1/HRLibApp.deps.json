@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HRLibApp/1.0.0": {
+        "dependencies": {
+          "HRLib": "1.0.0"
+        },
+        "runtime": {
+          "HRLibApp.dll": {}
+        }
+      },
+      "HRLib/1.0.0": {
+        "runtime": {
+          "HRLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRLibApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HRLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

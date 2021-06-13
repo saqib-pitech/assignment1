@@ -1,0 +1,14 @@
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\bin\Debug\netcoreapp3.1\HRLibApp.exe
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\bin\Debug\netcoreapp3.1\HRLibApp.deps.json
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\bin\Debug\netcoreapp3.1\HRLibApp.runtimeconfig.json
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\bin\Debug\netcoreapp3.1\HRLibApp.runtimeconfig.dev.json
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\bin\Debug\netcoreapp3.1\HRLibApp.dll
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\bin\Debug\netcoreapp3.1\HRLibApp.pdb
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\bin\Debug\netcoreapp3.1\HRLib.dll
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\bin\Debug\netcoreapp3.1\HRLib.pdb
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\obj\Debug\netcoreapp3.1\HRLibApp.csprojAssemblyReference.cache
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\obj\Debug\netcoreapp3.1\HRLibApp.AssemblyInfoInputs.cache
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\obj\Debug\netcoreapp3.1\HRLibApp.AssemblyInfo.cs
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\obj\Debug\netcoreapp3.1\HRLibApp.csproj.CopyComplete
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\obj\Debug\netcoreapp3.1\HRLibApp.dll
+C:\Users\Mohd.Saqib\Training\HRLib\HRLibApp\obj\Debug\netcoreapp3.1\HRLibApp.pdb

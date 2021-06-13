@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HRLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HRLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HRLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRLib/1.0.0": {
+      "type": "project",
+      "path": "../HRLib/HRLib.csproj",
+      "msbuildProject": "../HRLib/HRLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "HRLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mohd.Saqib\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mohd.Saqib\\Training\\HRLib\\HRLibApp\\HRLibApp.csproj",
+      "projectName": "HRLibApp",
+      "projectPath": "C:\\Users\\Mohd.Saqib\\Training\\HRLib\\HRLibApp\\HRLibApp.csproj",
+      "packagesPath": "C:\\Users\\Mohd.Saqib\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mohd.Saqib\\Training\\HRLib\\HRLibApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mohd.Saqib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Mohd.Saqib\\Training\\HRLib\\HRLib\\HRLib.csproj": {
+              "projectPath": "C:\\Users\\Mohd.Saqib\\Training\\HRLib\\HRLib\\HRLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

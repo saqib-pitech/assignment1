@@ -1,0 +1,5 @@
+C:\Users\Mohd.Saqib\Training\HRLib\HRLib\bin\Debug\HRLib.dll
+C:\Users\Mohd.Saqib\Training\HRLib\HRLib\bin\Debug\HRLib.pdb
+C:\Users\Mohd.Saqib\Training\HRLib\HRLib\obj\Debug\HRLib.dll
+C:\Users\Mohd.Saqib\Training\HRLib\HRLib\obj\Debug\HRLib.pdb
+C:\Users\Mohd.Saqib\Training\HRLib\HRLib\obj\Debug\HRLib.csprojAssemblyReference.cache
